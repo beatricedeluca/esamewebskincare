@@ -1,0 +1,302 @@
+header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #EFDEF0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0px;
+}
+li a{
+    color: #8C258A;
+}
+section.foto{
+    display: flex;
+}
+section.foto img {
+   width: 25%;
+}
+h1 {
+    text-align:center;
+    margin-top: 8%;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 32px;
+    color: #8C258A
+}
+section.introduzione p {
+    text-align:left;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 8%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+h2 a{
+    background-color: #EFDEF0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: #8C258A;
+    text-align: center;
+    padding: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+section.card{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+}
+div{
+    align-items: center;
+    margin: 60px;
+}
+div img{
+    width: 50%;
+}
+
+div.giorno {
+    background-color: #F2ECF2;
+    margin: 8%;
+    padding: 1%;
+    border-radius: 5%;
+}
+
+div.notte {
+    background-color: #F2C8F4;
+    margin: 8%;
+    padding: 1%;
+    border-radius: 5%;
+}
+ h3{
+        font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color:#8C258A;
+ }
+section.footer1 {
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+}
+section.footer2 {
+    display: flex;
+    text-align: center;
+}
+footer div {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    gap: 1%;
+    margin: 0%;
+}
+
+h4 a {
+    text-align: center;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    }
+    
+footer img {
+        width: 10%;
+    }
+footer {
+    background-color: #EFDEF0;
+    padding-bottom: 2%;
+    padding-top: 2%;
+}
+footer p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0;
+}
+
+section.skincare img{
+    max-width: 100%;
+    width: 200%;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    color: #8C258A;
+    text-align:left;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 8%;
+    margin-bottom: 4%;
+}
+section.paragrafi p {
+    text-align:left;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 4%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20;
+}
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:#8C258A;
+    text-align: right;
+    margin: 2%;
+}
+section.routine p {
+    text-align:left;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 4%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20;
+}
+section.fotoroutine {
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+}
+section.fotoroutine img {
+   width: 20%;
+}
+section.fasi {
+    text-align: left;
+}
+section.fasi div {
+    display: flex;
+    justify-content: left;
+    gap: 5%;
+    margin-left: 40%;
+}
+section.fasi img {
+    width: 20%;
+    background-color:#EFDEF0;
+    border-radius: 10%;
+    padding: 1%;
+}
+section.fasinight {
+    text-align: left;
+}
+section.fasinight div {
+    display: flex;
+    justify-content: left;
+    gap: 5%;
+    margin-left: 40%;
+}
+section.fasinight img {
+    width: 20%;
+    background-color:#F2C8F4;
+    border-radius: 10%;
+    padding: 1%;
+}
+section.paginafasi {
+    display: flex;
+    justify-content: center;
+}
+section.paginafasi img {
+    width: 50%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+div.prodotto {
+    display: flex;
+    background-color: #EFDEF0;
+    margin:0%
+}
+div.prodotto img {
+    width: 30%;
+    padding: 1%;
+}
+div.prodotto p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-bottom: 10%;
+}
+div.prodottonight {
+    display: flex;
+    background-color: #F2C8F4;
+    margin:0%
+}
+div.prodottonight img {
+    width: 30%;
+    padding: 1%;
+}
+div.prodottonight p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-bottom: 10%;
+}
+section.prodotticonsigliati h3 {
+    margin-left: 12%;
+    margin-top: 10%;
+}
+section.consiglio1 {
+    align-items: center;
+    display: flex;
+    justify-content:center;
+    margin-left: 3%;
+}
+section.consigli img {
+        width: 20%;
+        }
+section.consiglio2 {
+            align-items: center;
+            display: flex;
+            justify-content: center;
+            margin: 0%;
+        }
+section.consigli{
+    display: flex;
+    margin-bottom: 8%;
+}
+section.consigli h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18;
+}
+a {
+    color: #8C258A;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color:#8C258A;text-align: left;
+    margin-left: 2%;
+    margin-bottom: 2%;
+}
+section.direzione {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+}
+section.about p {
+    text-align:left;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 8%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+section.about2 {
+    text-align:left;
+    padding-left: 25%;
+    padding-right: 25%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: #F2C8F4;
+    margin-bottom: 10%
+
+}
+section.about2 p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
